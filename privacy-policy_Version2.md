@@ -43,13 +43,17 @@ We do **not sell** your personal or health data. We may share information under 
 
 ## 4. Security of Your Information
 
-We use reasonable administrative, technical, and physical safeguards to protect your data, including:
+We use reasonable administrative, technical, and physical safeguards to protect your data. This includes:
 
-* AES-256 encryption for stored data
-* Role-based access for any authorized personnel
-* End-to-end encryption for any optional backups (coming soon)
+Local storage of your health data on your iOS device using Core Data.
 
-However, please note that no system is completely secure. You are encouraged to protect access to your own device and account.
+Smart Coach (Beta) responses are powered by OpenAI’s ChatGPT and run on external servers. All inputs to the Smart Coach are sandboxed—meaning they are not connected to your health records or internal app data. However, anything you type into the Smart Coach is sent to OpenAI’s servers for processing.
+
+No Smart Coach inputs are stored on your device. We do not send your health data to OpenAI or any third parties without your explicit action.
+
+Please avoid entering personal identifiers (e.g., name, address, medical record numbers, insurance info) when using Smart Coach.
+
+While we are working toward a fully private-by-design architecture in future updates, no system is 100% secure. We encourage you to use strong device protections (such as passcodes and Face ID) and keep your app updated to ensure optimal security.
 
 ---
 
