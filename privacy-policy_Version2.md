@@ -62,7 +62,7 @@ Depending on your location, you may have the right to:
 * Export your records (available in future versions)
 * Withdraw consent or close your account
 
-To exercise any of these rights, email us at **[privacy@omeedlabs.com](mailto:privacy@omeedlabs.com)**.
+To exercise any of these rights, email us at **[info@omeedlabs.com](mailto:info@omeedlabs.com)**.
 
 ---
 
@@ -89,7 +89,7 @@ We may update this Privacy Policy as the app evolves. Significant changes will b
 If you have any questions, suggestions, or concerns regarding this Privacy Policy, please contact:
 
 **Omeed Labs, LLC**
-**Email:** [privacy@omeedlabs.com](mailto:privacy@omeedlabs.com)
+**Email:** [info@omeedlabs.com](mailto:info@omeedlabs.com)
 **Subject:** Privacy Inquiry – Health Tracker Pro
 
 ---
