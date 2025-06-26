@@ -68,7 +68,7 @@ To exercise any of these rights, email us at **[info@omeedlabs.com](mailto:info@
 
 ## 6. Children’s Privacy
 
-**Health Tracker Pro** is not intended for children under the age of 13. We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has used the app, please contact us.
+**Health Tracker Pro** is not intended for individuals under the age of 18.
 
 ---
 
